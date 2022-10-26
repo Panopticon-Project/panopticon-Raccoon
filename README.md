@@ -9,3 +9,5 @@ https://blog.sekoia.io/raccoon-stealer-v2-part-1-the-return-of-the-dead/?utm_sou
 https://asec.ahnlab.com/en/35981/?utm_source=substack&utm_medium=email
 
 https://ke-la.com/information-stealers-a-new-landscape/?utm_source=substack&utm_medium=email
+
+https://www.justice.gov/usao-wdtx/pr/newly-unsealed-indictment-charges-ukrainian-national-international-cybercrime-operation
